@@ -24,7 +24,7 @@ const pizzaIndividualProps = defineProps({
 .orden-pizza {
   display: flex;
   align-items: center;
-  background: rgb(223, 175, 80);
+  background: rgb(223, 175, 82);
   box-shadow: 3px 3px 8px rgb(189, 184, 184);
 }
 
