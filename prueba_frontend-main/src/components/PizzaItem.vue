@@ -3,7 +3,7 @@
     <img
       @click="enviarPagina"
       :src="pizzaProps.imagen"
-      alt=""
+      alt="Image pizza"
       width="120"
       height="120"
     />

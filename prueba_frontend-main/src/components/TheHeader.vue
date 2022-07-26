@@ -69,7 +69,7 @@ const handleSignOut = () => {
 .navigation {
     position: relative;
     width:  400px;
-    height: 70px;
+    height: 75px;
     background: #fff;
     display: flex;
     justify-content: center;
